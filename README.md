@@ -28,7 +28,7 @@ Discord Rich Presence for web services!
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
-<a name="stats"></a>
+<a name="stats"><AOV>
 
 ### Stats
 
